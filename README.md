@@ -14,6 +14,7 @@ Non-coding small RNA reaction and structure calculation
   # RNAGate v 1.1
  
   Usage:
+  ```
   rnagate inputfilename.txt outputfilename.txt -OPTIONS
  
   OPTIONS must be either or both of the following:
@@ -29,18 +30,15 @@ Non-coding small RNA reaction and structure calculation
   command line for subsequence free probability calculation
  
    rnagate inputfilename.txt outputfilename.txt -r
- 
+ ```
  
   Note that the input file format is different for -r option. See below.
- 
- 
 
- *********************************************************************************
- In order to compile the code, please use Eclipse C++ development tools
+  In order to compile the code, please use Eclipse C++ development tools
 
  You need to install gcc 4.5.0+ to compile and run the code
  
- I used gcc 4.6.0 release verison to compile the code. it's required for openmp library
+ I used gcc 4.6.0 release verison to compile the code.
  
 
 ```
