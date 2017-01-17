@@ -1,0 +1,35 @@
+%
+%
+% 
+% Use % to add comment
+%
+
+3
+........((((((.....................))))))..............  % structure
+AAUAUAAACCUCUUAACAACCUUGUGGCGCCUUUAAAGAGGAGAAAUUAUGAAUG % initial sequence 
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNAAAGAGGAGAAATTATGAATG % sequence constraint
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@RRRRRRRRRRRRRRRRRRRRR % structure constraints when an RNA-complex is formed
+3  % number of mutation sites
+6  % distance 
+1  % flag  = 1 to preserve the stems as much as possible, flag = 0 will not preserve structure of the RNA monomers 
+
+.............(((((((((((((((((....)))))).)))))))))))...................
+#
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+3
+6
+1
+
+....(((((((.(((........))).)))))))....((((((((((((((.......))))))))))))))......
+#
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+3
+6 
+1
+
+AND % the preset logic gate, other options are OR, XOR, NOR, XNOR, NAND, YES, NOT
+30000
+BASIC_REPEAT_CHECK
+MONTE_CARLO_MODE

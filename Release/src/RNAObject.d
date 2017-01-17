@@ -1,0 +1,40 @@
+src/RNAObject.d: ../src/RNAObject.cpp \
+ /Users/kamal/Documents/my_programs/c_code/RNAGate_v18/include/RNAObject.h \
+ /Users/kamal/Documents/my_programs/c_code/RNAGate_v18/include/global_variables.h \
+ /Users/kamal/Documents/my_programs/c_code/RNAGate_v18/include/ViennaRNA/include/ViennaRNA/fold.h \
+ /Users/kamal/Documents/my_programs/c_code/RNAGate_v18/include/ViennaRNA/include/ViennaRNA/inverse.h \
+ /Users/kamal/Documents/my_programs/c_code/RNAGate_v18/include/ViennaRNA/include/ViennaRNA/utils.h \
+ /Users/kamal/Documents/my_programs/c_code/RNAGate_v18/include/random.h \
+ /Users/kamal/Documents/my_programs/c_code/RNAGate_v18/include/nupack/pfuncUtilsConstants.h \
+ /Users/kamal/Documents/my_programs/c_code/RNAGate_v18/include/nupack/physical_constants.h \
+ /Users/kamal/Documents/my_programs/c_code/RNAGate_v18/include/nupack/runtime_constants.h \
+ /Users/kamal/Documents/my_programs/c_code/RNAGate_v18/include/nupack/pfuncUtilsHeader.h \
+ /Users/kamal/Documents/my_programs/c_code/RNAGate_v18/include/nupack/pfuncUtilsConstants.h \
+ /Users/kamal/Documents/my_programs/c_code/RNAGate_v18/include/nupack/DNAExternals.h \
+ /Users/kamal/Documents/my_programs/c_code/RNAGate_v18/include/nupack/ConcentrationsHeaderFile.h
+
+/Users/kamal/Documents/my_programs/c_code/RNAGate_v18/include/RNAObject.h:
+
+/Users/kamal/Documents/my_programs/c_code/RNAGate_v18/include/global_variables.h:
+
+/Users/kamal/Documents/my_programs/c_code/RNAGate_v18/include/ViennaRNA/include/ViennaRNA/fold.h:
+
+/Users/kamal/Documents/my_programs/c_code/RNAGate_v18/include/ViennaRNA/include/ViennaRNA/inverse.h:
+
+/Users/kamal/Documents/my_programs/c_code/RNAGate_v18/include/ViennaRNA/include/ViennaRNA/utils.h:
+
+/Users/kamal/Documents/my_programs/c_code/RNAGate_v18/include/random.h:
+
+/Users/kamal/Documents/my_programs/c_code/RNAGate_v18/include/nupack/pfuncUtilsConstants.h:
+
+/Users/kamal/Documents/my_programs/c_code/RNAGate_v18/include/nupack/physical_constants.h:
+
+/Users/kamal/Documents/my_programs/c_code/RNAGate_v18/include/nupack/runtime_constants.h:
+
+/Users/kamal/Documents/my_programs/c_code/RNAGate_v18/include/nupack/pfuncUtilsHeader.h:
+
+/Users/kamal/Documents/my_programs/c_code/RNAGate_v18/include/nupack/pfuncUtilsConstants.h:
+
+/Users/kamal/Documents/my_programs/c_code/RNAGate_v18/include/nupack/DNAExternals.h:
+
+/Users/kamal/Documents/my_programs/c_code/RNAGate_v18/include/nupack/ConcentrationsHeaderFile.h:
