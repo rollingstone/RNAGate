@@ -62,7 +62,7 @@ Non-coding small RNA reaction and structure calculation
  Y			%(Y = 1 is the computation attempts to preserve, during mutations, the stems of the RNA structures, if Y = 0, no preservation steps taken) 
  
  .....((((....))).... (monomer structure constraint for sRNA1)
- \# 
+ # 
  NNNNNNNNNNNNNNNNNNNN %(monomer sequence constraint) 
  @@@@@@@@@@@@@@@@@@@@ %(constraint when the RNAs make complexes) 
  X			%(number of mutations sites for the RNA) 
