@@ -3,11 +3,10 @@ Non-coding small RNA reaction and structure calculation
 
 ```
 ============================================================================
- Name        : RNAgate.cpp
+ Name        : RNAgate
  Author      : Marzuk M Kamal
- Version     :
- Copyright   : (c) Marzuk M Kamal, 2010
- Description : RNAgate v1.1
+ Version     : 1.1
+
 ============================================================================
 ```
 
